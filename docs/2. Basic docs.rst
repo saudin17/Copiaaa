@@ -14,7 +14,7 @@ In Python, libraries and functions used in a script must be imported by name at 
                         +------+
 For example, to use the |Button| interface from GPIO Zero, it should be explicitly imported:
                         +------+
-                        ********
+                        ########
 
 +---------------------------+
 |from gpiozero import Button|
