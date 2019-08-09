@@ -11,7 +11,10 @@ The following recipes demonstrate some of the capabilities of the GPIO Zero libr
 
 In Python, libraries and functions used in a script must be imported by name at the top of the file, with the exception of the functions built into Python by default.
 
-For example, to use the Butto  interface from GPIO Zero, it should be explicitly imported:
+                        +------+
+For example, to use the |Button| interface from GPIO Zero, it should be explicitly imported:
+                        +------+
+                        ********
 
 +---------------------------+
 |from gpiozero import Button|
